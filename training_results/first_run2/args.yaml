@@ -13,7 +13,7 @@ cache: false
 device: mps
 workers: 8
 project: ../training_results
-name: first_run
+name: first_run2
 exist_ok: false
 pretrained: true
 optimizer: auto
@@ -103,4 +103,4 @@ erasing: 0.4
 crop_fraction: 1.0
 cfg: null
 tracker: botsort.yaml
-save_dir: ../training_results/first_run
+save_dir: ../training_results/first_run2

@@ -26,6 +26,7 @@ venv/
 env/
 ENV/
 .shot_analyzer_venv/
+py39_env
 
 .idea/
 
