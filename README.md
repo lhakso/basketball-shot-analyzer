@@ -92,7 +92,7 @@ The project has evolved through several iterations:
 
 1. ✅ Basketball object detection and tracking with YOLOv8
    - ✅ Initial model trained with >98% mAP@50 accuracy
-   - 🔄 Expanding training dataset for improved generalization
+   - ✅ Expanding training dataset for improved generalization
 2. 🔄 AlphaPose integration for pose estimation
 3. 🔄 Shooting motion temporal analysis
    - 🔄 Joint angle calculation
